@@ -21,5 +21,12 @@ The main objective of this Big Data Analytics project is to utilize cloud and bi
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/6fc1c277-aaec-4ff3-b05f-9a8320ff1fc7">
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/17d6b870-700b-4976-9b3b-97c116fd7c3e">
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6bcf0e19-b03e-44c4-89d1-7a87839b585d">
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9857571d-858c-4e78-b3db-e183e06bd6b1">
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/ec2ca4ca-8d41-468f-ad67-d1ddfdc4b766">
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/574ce8ce-fd7b-47d6-8adf-fae8ccb621d2">
