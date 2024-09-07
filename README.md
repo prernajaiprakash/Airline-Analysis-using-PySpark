@@ -7,7 +7,7 @@ The main objective of this Big Data Analytics project is to utilize cloud and bi
 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/28310eb5-ee7c-438f-bab7-9c311eec1134">
 
-<img width="659" alt="image" src="https://github.com/user-attachments/assets/a3570888-9ed2-4535-bccc-5bfed8c76ed1">
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/a3570888-9ed2-4535-bccc-5bfed8c76ed1">
 
 
 
